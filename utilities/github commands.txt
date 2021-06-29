@@ -1,1 +1,26 @@
+============================== Kodları eklemek =======================================
+```
+import tensorflow as tf
+import matplotlib.pyplot as plt
+import numpy as np # numerical python kütüphanesi
+import pandas as pd
+import sys
+from numpy import random
+```
+=====================================================================================
 
+================================ Şekil Koyma ========================================
+<img src="figure/xor mapping.jpg" alt="xor problem mapping" height="240"/></br>
+*Figure 1:* The mapping in XOR problem.
+===================================================================================== 
+
+============================== Math Formulas ========================================
+<img src="equations/capacitor equation.JPG" alt="capacitor equation" height="45"/>
+=====================================================================================
+
+============================ Alt ve üst indis =======================================
+<sub>1</sub>
+<sup>2</sup>
+
+=========================== Video Linki Ekleme ======================================
+[![video](figure/thumbnail.jpg)](https://www.youtube.com/abc)
